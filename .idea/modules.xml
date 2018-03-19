@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/textgame-room-api.iml" filepath="$PROJECT_DIR$/textgame-room-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/textgame-room-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/textgame-room-api_main.iml" group="textgame-room-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/textgame-room-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/textgame-room-api_test.iml" group="textgame-room-api" />
+    </modules>
+  </component>
+</project>
