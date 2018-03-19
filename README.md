@@ -10,3 +10,10 @@ A Java api for holding information about individual "rooms" for a simple java te
 | POST |	/rooms	| Post data |
 | PUT	| /rooms/59be3c34b1a24167ad2779b5 |	Update data
 | DELETE	| /rooms/59be3c34b1a24167ad2779b5	| Delete data
+
+
+## Usage
+
+`chmod +x InitDatabase`
+`chmod +x run.sh`
+`./run.sh
