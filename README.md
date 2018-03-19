@@ -18,4 +18,4 @@ A Java api for holding information about individual "rooms" for a simple java te
 
 `chmod +x run.sh`
 
-`./run.sh
+`./run.sh`
