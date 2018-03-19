@@ -15,5 +15,7 @@ A Java api for holding information about individual "rooms" for a simple java te
 ## Usage
 
 `chmod +x InitDatabase`
+
 `chmod +x run.sh`
+
 `./run.sh
