@@ -1,0 +1,2 @@
+./InitDatabase.sh
+./gradlew bootRun
